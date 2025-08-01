@@ -1,0 +1,54 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider  = "postgresql"
+  url       = env("DATABASE_URL")
+  directUrl = env("DIRECT_URL")
+}
+
+model Brandlead {
+  id             String   @id @default(uuid())
+  fullName       String
+  email          String
+  phone          String
+  company        String
+  campaignVolume String
+  country        String
+  industry       String
+  jobTitle       String
+  terms          Boolean
+  contact        Boolean
+  createdAt      DateTime @default(now())
+  updatedAt      DateTime @updatedAt
+}
+
+model CreatorLead {
+  id            String   @id @default(uuid())
+  fullName      String
+  mediaHandle   String
+  mainProfile   String
+  email         String
+  platforms     String
+  followerCount String
+  phone         String
+  country       String
+  terms         Boolean
+  contact       Boolean
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+}
+
+model NewsLetter {
+  id        String   @id @default(uuid())
+  createdAt DateTime @default(now())
+  email     String
+  updatedAt DateTime @updatedAt
+}

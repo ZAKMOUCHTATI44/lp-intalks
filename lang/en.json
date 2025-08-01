@@ -1,0 +1,264 @@
+{
+  "navbar": {
+    "links": {
+      "home": "Home",
+      "brands": "For Brands",
+      "influencers": "For Influencers",
+      "earlyBird": "Early Bird Perks",
+      "contact": "Contact"
+    },
+    "cta": "Get Started Now"
+  },
+  "hero": {
+    "join": "Join",
+    "Influencers": "Influencers",
+    "title": "Discover the First  <br /> Influencers Marketplace <br />  in Morocco",
+    "subTitle": "in-Talks is the first Moroccan platform dedicated to digital influence.",
+    "ctaBrand": "I’m a Brand or an agency",
+    "ctaInfluencer": "I’m an Influencer"
+  },
+  "benefitsInfluenceur": {
+    "title": "Influencers:",
+    "subtitle": "Work smarter, not harder.",
+    "features": {
+      "aiMatching": {
+        "title": "AI Matching",
+        "description": "Get matched with campaigns that truly fit your vibe."
+      },
+      "personalizedBriefs": {
+        "title": "Personalized Briefs",
+        "description": "Tailored to your content style and audience."
+      },
+      "preWrittenScripts": {
+        "title": "Pre-written Scripts",
+        "description": "Adapt in one click with ready-to-go scripts."
+      },
+      "topBrandAccess": {
+        "title": "Top Brand Access",
+        "description": "Work with verified partnerships and premium brands."
+      },
+      "smartPriceSuggestion": {
+        "title": "Smart Price Suggestion",
+        "description": "Know your worth with intelligent pricing tools."
+      },
+      "negotiationTools": {
+        "title": "Negotiation Tools",
+        "description": "Save time with built-in negotiation features."
+      },
+      "campaignManager": {
+        "title": "Campaign Manager",
+        "description": "Keep all your campaigns in one place."
+      },
+      "performanceKPIs": {
+        "title": "Performance KPIs",
+        "description": "Track and improve your content performance."
+      },
+      "businessOpportunities": {
+        "title": "Business Opportunities",
+        "description": "Get discovered by more brands continuously."
+      },
+      "clearAgreements": {
+        "title": "Clear Agreements",
+        "description": "Protect your rights with defined rules and terms."
+      },
+      "boostedVisibility": {
+        "title": "Boosted Visibility",
+        "description": "Stand out on our exclusive marketplace."
+      },
+      "earlyBirdPerks": {
+        "title": "Early Bird Perks",
+        "description": "Get special benefits as a top creator."
+      }
+    },
+    "cta": "Join as an Influencer – Get Early Access"
+  },
+  "benefitsBrand": {
+    "title": "BRAND AND AGENCIES :",
+    "subtitle": "Create powerful campaigns with AI precision and AI Matching with influencers in less than 15 minutes.",
+    "features": {
+      "aiBriefGenerator": {
+        "title": "AI Brief Generator",
+        "description": "Structure your needs in seconds."
+      },
+      "aiCampaignPlanner": {
+        "title": "AI Campaign Planner",
+        "description": "AI recommendation for a full campaign plan aligned with your brand and values."
+      },
+      "aiScriptGenerator": {
+        "title": "AI Script Generator",
+        "description": "Auto-generated scripts ready to send to talents."
+      },
+      "aiInfluencerMatching": {
+        "title": "AI Influencer Matching",
+        "description": "Get matched with the most relevant influencers for your brand."
+      },
+      "smartPriceEstimator": {
+        "title": "Smart Price Estimator",
+        "description": "Fair price suggestions and negotiation options powered by AI."
+      },
+      "productMarketplace": {
+        "title": "Product Marketplace",
+        "description": "Feature the items you want influencers to promote."
+      },
+      "streamlinedWorkflow": {
+        "title": "Streamlined Workflow",
+        "description": "From briefing to performance tracking, all in one place."
+      },
+      "influencerSocialListening": {
+        "title": "Influencer Social Listening",
+        "description": "Track who’s tagging your brand in real time."
+      },
+      "performanceDashboard": {
+        "title": "Performance Dashboard",
+        "description": "Monitor campaign results live with real-time insights."
+      },
+      "fullCampaignControl": {
+        "title": "Full Campaign Control",
+        "description": "Manage your campaign in one sleek, intuitive interface."
+      }
+    },
+    "cta": "Join as a Brand or agency– Get Early Access"
+  },
+  "earlyBird": {
+    "name": "Early Bird",
+    "title": "Why sign up early ?",
+    "description": "The first AI-Powered Collaboration Platform Brands & Influencers",
+    "content": "Be among the first to access exclusive tools, smart AI match making, and privileged AI features.",
+    "cta": "Join us today",
+    "priorityAccessToThePlatform": "Priority access to the platform",
+    "invitationToOurExclusiveLaunchEvent": "Invitation to our exclusive launch event",
+    "premiumVisibilityInTheMarketplace": "Premium visibility in the marketplace",
+    "betaTestingPrivilegesAndInfluenceProductEvolution": "Beta testing privileges & influence product evolution"
+  },
+  "bandCta": {
+    "title": "The Biggest Moroccan Influencers are on in-Talks",
+    "description": "Thanks to a handpicked database, in-Talks connects you with credible and engaged content creators, ready to collaborate with your brand for impactful results.",
+    "cta": "Collaborate Now"
+  },
+  "footer": {
+    "description": "InTalks  is the first AI-powered influencer marketing platform designed for the MENA region and beyond. It connects brands, agencies, and creators through smart tools that simplify collaboration, campaign management, and performance tracking.",
+    "quickLink": "Quick Link",
+    "newsletter": {
+      "title": "Stay Informed",
+      "subTitle": "Inscrivez-vous à notre newsletter pour recevoir les dernières actualités, conseils et astuces sur le marketing d'influence. Soyez informé en premier !",
+      "placeholder": "Enter your email",
+      "cta": "Subscribe"
+    },
+    "copyright": "2025 © Copyrights InTalks",
+    "mentions_legales": "Legal Notice",
+    "politique_confidentialite": "Privacy Policy"
+  },
+  "brandForm": {
+    "success": "Your form has been successfully submitted!",
+    "title": " Join as a Brand or agency– Be First, Be Ahead",
+    "subTitle": "Get early access to HYPEO AI and unlock powerful tools to build smarter, AI-driven influencer campaigns from day one.",
+    "form": {
+      "firstName": {
+        "label": "Full Name",
+        "validation": "Please enter your full name."
+      },
+      "email": {
+        "label": "Work Email",
+        "validation": "Please enter a valid work email address."
+      },
+      "phone": {
+        "label": "Phone",
+        "validation": "Please enter your phone number."
+      },
+      "company": {
+        "label": "Company Name",
+        "validation": "Please enter your company name."
+      },
+      "jobTitle": {
+        "label": "Job Title",
+        "validation": "Please enter your job title."
+      },
+      "campaignVolume": {
+        "label": "Estimated Monthly Campaign Volume",
+        "validation": "Please select an estimated monthly campaign volume.",
+        "options": {
+          "1-2": "1 - 2 campaigns",
+          "3-5": "3 - 5 campaigns",
+          "6-10": "6 - 10 campaigns",
+          "11-20": "11 - 20 campaigns",
+          "20+": "More than 20 campaigns"
+        }
+      },
+      "country": {
+        "label": "Country",
+        "empty": "This option is unavailable.",
+        "validation": "Please select your country."
+      },
+      "industry": {
+        "label": "Industry",
+        "validation": "Please select your industry."
+      },
+      "terms": {
+        "label": "I want to join the private beta program",
+        "validation": "You must accept to join the private beta program."
+      },
+      "contact": {
+        "label": "I agree to be contacted for user testing sessions",
+        "validation": "Please confirm if you agree to be contacted."
+      },
+      "cta": "Request Early Access"
+    }
+  },
+  "influencerForm": {
+    "title": "Join as an Influencer – Let the Right Brands Find You First",
+    "subTitle": "HYPEO is the first AI-powered platform built to connect creators and brands in a smarter, faster, and more transparent way.",
+    "content":"By signing up, you’ll get access to an all-in-one platform to manage your entire influence journey.",
+    "form": {
+      "success": "Your form has been successfully submitted!",
+      "fullName": {
+        "label": "Full Name",
+        "validation": "Please enter your full name."
+      },
+      "country": {
+        "label": "Country",
+        "empty": "This option is unavailable.",
+        "validation": "Please select your country."
+      },
+      "mediaHandle": {
+        "label": "Social Media Handle",
+        "validation": "Please enter your social media handle."
+      },
+      "mainProfile": {
+        "label": "Link to Main Profile",
+        "validation": "Please provide a valid link to your main profile."
+      },
+      "email": {
+        "label": "Work Email",
+        "validation": "Please enter a valid work email address."
+      },
+      "phone": {
+        "label": "Phone",
+        "validation": "Please enter your phone number."
+      },
+      "followerCount": {
+        "label": "Approximate Follower Count",
+        "validation": "Please select your follower count range.",
+        "options": {
+          "nano": "Nano (1K - 30K followers)",
+          "micro": "Micro (31K - 300K followers)",
+          "macro": "Macro (300K - 2M followers)",
+          "celebrities": "Celebrities (2M+ followers)"
+        }
+      },
+      "platforms": {
+        "label": "Active Platforms",
+        "empty": "No results found.",
+        "validation": "Please select at least one active platform."
+      },
+      "terms": {
+        "label": "I want to join the private beta program",
+        "validation": "You must accept to join the private beta program."
+      },
+      "contact": {
+        "label": "I agree to be contacted for exclusive collaboration opportunities",
+        "validation": "Please confirm if you agree to be contacted."
+      },
+      "cta": "Get Early Access"
+    }
+  }
+}
