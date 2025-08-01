@@ -2,178 +2,187 @@
   "navbar": {
     "links": {
       "home": "Accueil",
-      "brands": "Pour les Marques",
-      "influencers": "Pour les Influenceurs",
-      "earlyBird": "Offres Anticipées",
+      "brands": "Solutions d’écoute sociale",
+      "influencers": "Pour les Marques & Agences",
+      "earlyBird": "Insights & Rapports",
       "contact": "Contact"
     },
     "cta": "Commencer maintenant"
   },
   "hero": {
     "join": "Rejoindre",
-    "Influencers": "Influenceurs",
-    "title": "Découvrez le Premier <br /> marketplace d'Influenceurs <br /> au Maroc",
-    "subTitle": "in-Talks est la première plateforme marocaine dédiée à l’influence digitale et propulsée par l’Intelligence Artificielle.",
-    "ctaBrand": "Commencez dès maintenant",
-    "ctaInfluencer": "Je suis un influenceur"
+    "Influencers": "Marques",
+    "title": "Découvrez la première <br /> plateforme d’écoute sociale <br /> au Maroc",
+    "subTitle": "In-Talks est la première plateforme marocaine dédiée à la surveillance en temps réel des conversations en ligne, propulsée par l'intelligence artificielle.",
+    "ctaBrand": "Commencer maintenant",
+    "ctaInfluencer": "Je suis un Influenceur"
   },
   "faq": {
-    "title": "Vous avez des questions sur in-Talks ?",
-    "description": "Vous êtes au bon endroit. Retrouvez ici toutes les réponses aux questions les plus fréquemment posées concernant notre plateforme",
-    "q1-question": "Qu'est-ce que in-Talks ?",
-    "q1-answer": "in-Talks est une plateforme marocaine qui connecte les marques, marocaines et internationales, avec des influenceurs locaux. Elle permet aux entreprises de trouver, analyser et collaborer avec des créateurs de contenu pour lancer des campagnes d'influence efficaces.",
-    "q2-question": "Comment trouver un influenceur sur la plateforme ?",
-    "q2-answer": "Grâce à notre moteur de recherche avancé, vous pouvez filtrer les influenceurs par niche, audience, taux d'engagement et autres critères pour trouver les profils les plus pertinents pour vos campagnes.",
-    "q3-question": "Quels types de marques peuvent utiliser in-Talks ?",
-    "q3-answer": "Toutes les marques, qu'elles soient petites ou grandes, peuvent utiliser in-Talks. La plateforme est conçue pour s'adapter aux besoins de différents secteurs, de la mode à la tech en passant par la beauté et bien d’autres.",
-    "q4-question": "Comment fonctionne la gestion de campagne sur la plateforme ?",
-    "q4-answer": "Vous pouvez suivre et gérer l'ensemble de vos projets directement sur in-Talks, de la création des briefs jusqu’à l’analyse des performances finales. Tous les outils sont centralisés pour une gestion simplifiée.",
-    "q5-question": "Quelles statistiques puis-je consulter ?",
-    "q5-answer": "Vous aurez accès à des statistiques détaillées sur l’engagement, la portée, et l’impact des influenceurs, ainsi qu’un suivi en temps réel de la performance de vos campagnes."
+    "title": "Des questions sur in-Talks ?",
+    "description": "Vous êtes au bon endroit. Voici les réponses aux questions les plus fréquentes sur notre plateforme d’écoute sociale.",
+    "q1-question": "Qu’est-ce que in-Talks ?",
+    "q1-answer": "in-Talks est la première plateforme marocaine d’écoute sociale propulsée par l’IA, aidant les marques à surveiller les conversations, analyser les tendances et obtenir des insights exploitables.",
+    "q2-question": "Comment puis-je suivre les mentions de ma marque ?",
+    "q2-answer": "Il suffit de configurer des mots-clés, hashtags ou noms de marque dans votre tableau de bord et de recevoir des mises à jour en temps réel.",
+    "q3-question": "Quelles marques peuvent bénéficier de in-Talks ?",
+    "q3-answer": "Toute marque, agence ou organisation souhaitant mieux comprendre son audience, ses concurrents et les tendances du marché peut en bénéficier.",
+    "q4-question": "Comment la plateforme aide-t-elle à prévenir les crises ?",
+    "q4-answer": "Nos alertes en temps réel vous informent dès qu’un pic de sentiment négatif ou une activité inhabituelle est détectée, vous permettant d’agir avant qu’une crise n’éclate.",
+    "q5-question": "Quels types de statistiques puis-je consulter ?",
+    "q5-answer": "Accédez à l’analyse de sentiment, aux tendances d’engagement, aux influenceurs majeurs, aux sujets tendance, et à des rapports détaillés pour vos équipes marketing ou RP."
   },
   "earlyBird": {
-    "name": "Offres Anticipées",
-    "title": "Des résultats concrets grâce à une approche locale",
-    "description": "Bénéficiez d'une plateforme spécialement conçue pour le marché marocain, offrant une expertise locale et des solutions adaptées aux besoins des marques et des influenceurs du pays.",
-    "content": "Soyez parmi les premiers à accéder à des outils exclusifs, un matchmaking intelligent et des fonctionnalités IA privilégiées.",
+    "name": "Offres Early Bird",
+    "title": "Des insights réels via une approche locale",
+    "description": "Profitez d’une plateforme spécifiquement conçue pour le marché marocain, offrant une surveillance locale, des insights culturels et des analyses adaptées pour les marques et agences.",
+    "content": "Soyez parmi les premiers à accéder à des données exclusives, des analyses alimentées par l’IA et des alertes en temps réel pour comprendre et anticiper les tendances du marché.",
     "cta": "Rejoignez-nous dès aujourd’hui",
-    "priorityAccessToThePlatform": "Profitez d’une base de données d’influenceurs marocains triée sur le volet.",
-    "invitationToOurExclusiveLaunchEvent": "Optimisez votre productivité avec des outils intuitifs.",
-    "premiumVisibilityInTheMarketplace": "Maximisez l'impact de chacune de vos collaborations.",
-    "betaTestingPrivilegesAndInfluenceProductEvolution": "Privilèges de test bêta & influence sur l'évolution du produit"
+    "priorityAccessToThePlatform": {
+      "title": "Accès à des données ciblées sur le Maroc",
+      "description": "Suivez les conversations, hashtags et sentiments spécifiques à l’audience marocaine."
+    },
+    "invitationToOurExclusiveLaunchEvent": {
+      "title": "Renforcez vos décisions avec des insights intelligents",
+      "description": "Utilisez des tableaux de bord intuitifs pour détecter les opportunités et les risques instantanément."
+    },
+    "premiumVisibilityInTheMarketplace": {
+      "title": "Maximisez l’impact de votre marque",
+      "description": "Transformez les conversations sociales en stratégies concrètes pour le marketing, les RP et l’expérience client."
+    },
+    "betaTestingPrivilegesAndInfluenceProductEvolution": "Accès en avant-première & influence sur l’évolution du produit"
   },
   "benefitsInfluenceur": {
     "title": "Influenceurs :",
     "subtitle": "Travaillez plus intelligemment, pas plus dur.",
     "features": {
       "aiMatching": {
-        "title": "Correspondance AI",
-        "description": "Trouvez des campagnes qui correspondent vraiment à votre style."
+        "title": "Correspondance IA",
+        "description": "Trouvez des campagnes en phase avec votre style."
       },
       "personalizedBriefs": {
-        "title": "Briefs Personnalisés",
+        "title": "Briefs personnalisés",
         "description": "Adaptés à votre style de contenu et à votre audience."
       },
       "preWrittenScripts": {
-        "title": "Scripts Pré-écrits",
-        "description": "Adaptez-vous en un clic avec des scripts prêts à l'emploi."
+        "title": "Scripts pré-rédigés",
+        "description": "Adaptez-vous instantanément grâce à des scripts prêts à l’emploi."
       },
       "topBrandAccess": {
-        "title": "Accès aux Grandes Marques",
+        "title": "Accès aux meilleures marques",
         "description": "Travaillez avec des partenariats vérifiés et des marques premium."
       },
       "smartPriceSuggestion": {
-        "title": "Suggestion de Prix Intelligente",
-        "description": "Connaissez votre valeur avec des outils de tarification intelligents."
+        "title": "Suggestion de tarif intelligente",
+        "description": "Connaissez votre valeur grâce à des outils de tarification intelligents."
       },
       "negotiationTools": {
-        "title": "Outils de Négociation",
-        "description": "Gagnez du temps avec des fonctionnalités de négociation intégrées."
+        "title": "Outils de négociation",
+        "description": "Gagnez du temps avec des fonctions de négociation intégrées."
       },
       "campaignManager": {
-        "title": "Gestionnaire de Campagnes",
+        "title": "Gestionnaire de campagnes",
         "description": "Gardez toutes vos campagnes au même endroit."
       },
       "performanceKPIs": {
-        "title": "KPIs de Performance",
-        "description": "Suivez et améliorez la performance de votre contenu."
+        "title": "Indicateurs de performance",
+        "description": "Suivez et améliorez les performances de vos contenus."
       },
       "businessOpportunities": {
-        "title": "Opportunités Professionnelles",
-        "description": "Soyez découvert par davantage de marques en continu."
+        "title": "Opportunités business",
+        "description": "Soyez découvert(e) par plus de marques en continu."
       },
       "clearAgreements": {
-        "title": "Accords Clairs",
-        "description": "Protégez vos droits avec des règles et termes définis."
+        "title": "Accords clairs",
+        "description": "Protégez vos droits avec des conditions transparentes."
       },
       "boostedVisibility": {
-        "title": "Visibilité Accrue",
-        "description": "Distinguez-vous sur notre marché exclusif."
+        "title": "Visibilité accrue",
+        "description": "Démarquez-vous sur notre marketplace exclusive."
       },
       "earlyBirdPerks": {
         "title": "Avantages Early Bird",
-        "description": "Bénéficiez d'avantages spéciaux en tant que créateur top."
+        "description": "Bénéficiez d’avantages exclusifs en tant que créateur(trice) privilégié(e)."
       }
     },
-    "cta": "Rejoignez en tant qu'Influenceur – Obtenez un Accès Anticipé"
+    "cta": "Rejoindre en tant qu’influenceur – Accès Anticipé"
   },
   "benefitsBrand": {
     "title": "MARQUES ET AGENCES :",
-    "subtitle": "Cherchez, analysez, et collaborez instantanément.",
+    "subtitle": "Surveillez, analysez et agissez sur les conversations sociales instantanément.",
     "features": {
       "aiBriefGenerator": {
-        "title": "Recherche avancée d'influenceurs",
-        "description": "Trouvez des créateurs de contenu par niche, audience et engagement en quelques clics."
+        "title": "Surveillance avancée des réseaux sociaux",
+        "description": "Suivez les mentions de marque, les concurrents et les mots-clés sectoriels sur toutes les plateformes."
       },
       "aiCampaignPlanner": {
-        "title": "Accès aux statistiques détaillées",
-        "description": "Analysez les performances des influenceurs avec des données précises sur l'audience et l'engagement."
+        "title": "Accès à des insights détaillés",
+        "description": "Obtenez en temps réel le sentiment du public, les tendances et les analyses d'engagement."
       },
       "aiScriptGenerator": {
-        "title": "Gestion complète des campagnes",
-        "description": "Suivez vos projets d'influence du début à la fin, avec un tableau de bord intuitif."
+        "title": "Suivi complet des campagnes",
+        "description": "Mesurez l’impact de vos campagnes et surveillez l’évolution de la perception de votre marque."
       },
       "aiInfluencerMatching": {
-        "title": "Collaboration simplifiée",
-        "description": "Établissez des partenariats avec les influenceurs directement via la plateforme."
+        "title": "Rapports simplifiés",
+        "description": "Générez des rapports clairs et exploitables pour vos équipes marketing et RP."
       },
       "smartPriceEstimator": {
-        "title": "Suivi des performances en temps réel",
-        "description": "Mesurez l’impact de vos campagnes avec des données actualisées."
+        "title": "Alertes & notifications en temps réel",
+        "description": "Anticipez les crises et les opportunités grâce à des alertes instantanées."
       },
       "productMarketplace": {
-        "title": "Outils de matching automatique",
-        "description": "Découvrez les influenceurs parfaits pour votre marque grâce à des recommandations basées sur vos besoins."
+        "title": "Recommandations alimentées par l’IA",
+        "description": "Identifiez les tendances clés et actions stratégiques grâce à l’analyse prédictive."
       }
     },
-    "cta": "Commencez dès maintenant"
+    "cta": "Commencer maintenant"
   },
   "bandCta": {
     "title": "Profitez de 14 jours d’essai gratuit",
-    "description": "Commencez à découvrir SAP sans engagement grâce à notre offre d’essai gratuit de 14 jours et expérimentez une gestion de projet fluide.",
-    "cta": "Rejoignez-nous dès aujourd’hui"
+    "description": "Commencez à explorer SAP sans engagement grâce à notre offre d’essai gratuit de 14 jours et découvrez une gestion de projet fluide.",
+    "cta": "Rejoignez-nous aujourd’hui"
   },
   "footer": {
-    "description": "in-Talks est la première plateforme marocaine dédiée à l’influence digitale et propulsée par l’Intelligence Artificielle.",
-    "quickLink": "Lien rapide",
+    "description": "in-Talks est la première plateforme marocaine dédiée à l’écoute sociale, propulsée par l’intelligence artificielle, aidant les marques à suivre les conversations, analyser les tendances et prendre des décisions basées sur les données.",
+    "quickLink": "Liens rapides",
     "newsletter": {
       "title": "Restez informé",
       "subTitle": "Abonnez-vous à notre newsletter.",
-      "placeholder": "Entrez votre adresse e-mail",
-      "cta": "S'abonner"
+      "placeholder": "Entrez votre adresse email",
+      "cta": "S’abonner"
     },
-    "copyright": "2025 © Copyrights InTalks",
+    "copyright": "2025 © Droits d’auteur InTalks",
     "mentions_legales": "Mentions légales",
     "politique_confidentialite": "Politique de confidentialité"
   },
   "brandForm": {
-    "title": "Rejoignez en tant que marque ou agence – Soyez les premiers, soyez en avance",
-    "subTitle": "Accédez en avant-première à HYPEO AI et débloquez des outils puissants pour créer dès le premier jour des campagnes d'influence plus intelligentes, basées sur l'IA.",
+    "title": "Rejoignez-nous en tant que Marque ou Agence – Soyez les Premiers",
+    "subTitle": "Accédez en avant-première à HYPEO AI et débloquez de puissants outils pour lancer des campagnes d’influence IA dès le premier jour.",
     "form": {
-      "success": "  Votre formulaire a été soumis avec succès !",
+      "success": "Votre formulaire a été soumis avec succès !",
       "firstName": {
         "label": "Nom complet",
-        "validation": "Veuillez entrer votre nom complet."
+        "validation": "Veuillez saisir votre nom complet."
       },
       "email": {
         "label": "Email professionnel",
-        "validation": "Veuillez entrer une adresse email professionnelle valide."
+        "validation": "Veuillez saisir une adresse email professionnelle valide."
       },
       "phone": {
         "label": "Téléphone",
-        "validation": "Veuillez entrer votre numéro de téléphone."
+        "validation": "Veuillez saisir votre numéro de téléphone."
       },
       "company": {
-        "label": "Nom de l'entreprise",
-        "validation": "Veuillez entrer le nom de votre entreprise."
+        "label": "Nom de l’entreprise",
+        "validation": "Veuillez saisir le nom de votre entreprise."
       },
       "jobTitle": {
         "label": "Poste",
-        "validation": "Veuillez entrer votre poste."
+        "validation": "Veuillez indiquer votre poste."
       },
       "campaignVolume": {
-        "label": "Volume estimé de campagnes mensuelles",
-        "validation": "sélectionner un volume estimé de campagnes mensuelles.",
+        "label": "Volume mensuel estimé de campagnes",
+        "validation": "Veuillez sélectionner un volume estimé de campagnes.",
         "options": {
           "1-2": "1 à 2 campagnes",
           "3-5": "3 à 5 campagnes",
@@ -188,29 +197,29 @@
         "validation": "Veuillez sélectionner votre pays."
       },
       "industry": {
-        "label": "Secteur d'activité",
-        "validation": "Veuillez sélectionner votre secteur d'activité."
+        "label": "Secteur d’activité",
+        "validation": "Veuillez sélectionner votre secteur d’activité."
       },
       "terms": {
         "label": "Je souhaite rejoindre le programme bêta privé",
         "validation": "Vous devez accepter de rejoindre le programme bêta privé."
       },
       "contact": {
-        "label": "J'accepte d'être contacté pour des sessions de tests utilisateurs",
-        "validation": "Veuillez confirmer si vous acceptez d'être contacté."
+        "label": "J’accepte d’être contacté pour des sessions de test utilisateur",
+        "validation": "Veuillez confirmer si vous acceptez d’être contacté."
       },
       "cta": "Demander un accès anticipé"
     }
   },
   "influencerForm": {
-    "title": "Rejoignez-nous en tant qu'influenceur – Laissez les bonnes marques vous trouver en premier",
-    "subTitle": "Faites partie de la première vague de créateurs qui façonnent l'avenir des collaborations propulsées par l'IA.",
-    "content": "By signing up, you’ll get access to an all-in-one platform to manage your entire influence journey.",
+    "title": "Rejoignez-nous en tant qu’Influenceur – Soyez trouvé(e) par les bonnes marques",
+    "subTitle": "Faites partie de la première vague de créateurs qui façonnent l’avenir des collaborations avec l’IA.",
+    "content": "En vous inscrivant, vous accéderez à une plateforme tout-en-un pour gérer votre parcours d’influence.",
     "form": {
-      "success": "  Votre formulaire a été soumis avec succès !",
+      "success": "Votre formulaire a été soumis avec succès !",
       "country": {
         "label": "Pays",
-        "empty": "Cette option est indisponible.",
+        "empty": "Aucun résultat trouvé.",
         "validation": "Veuillez sélectionner votre pays."
       },
       "fullName": {
@@ -218,8 +227,8 @@
         "validation": "Veuillez entrer votre nom complet."
       },
       "mediaHandle": {
-        "label": "Identifiant sur les réseaux sociaux",
-        "validation": "Veuillez entrer votre identifiant sur les réseaux sociaux."
+        "label": "Pseudo sur les réseaux sociaux",
+        "validation": "Veuillez entrer votre pseudo."
       },
       "mainProfile": {
         "label": "Lien vers le profil principal",
@@ -235,7 +244,7 @@
       },
       "followerCount": {
         "label": "Nombre approximatif d’abonnés",
-        "validation": "Veuillez sélectionner une plage de nombre d’abonnés.",
+        "validation": "Veuillez sélectionner une tranche d’abonnés.",
         "options": {
           "nano": "Nano (1K - 30K abonnés)",
           "micro": "Micro (31K - 300K abonnés)",
@@ -246,17 +255,17 @@
       "platforms": {
         "label": "Plateformes actives",
         "empty": "Aucun résultat trouvé.",
-        "validation": "Veuillez sélectionner au moins une plateforme active."
+        "validation": "Veuillez sélectionner au moins une plateforme."
       },
       "terms": {
         "label": "Je souhaite rejoindre le programme bêta privé",
         "validation": "Vous devez accepter de rejoindre le programme bêta privé."
       },
       "contact": {
-        "label": "J'accepte d'être contacté pour des opportunités de collaboration exclusives",
-        "validation": "Veuillez confirmer si vous acceptez d'être contacté."
+        "label": "J’accepte d’être contacté pour des opportunités exclusives de collaboration",
+        "validation": "Veuillez confirmer si vous acceptez d’être contacté."
       },
-      "cta": "Obtenir un accès anticipé"
+      "cta": "Accès anticipé"
     }
   }
 }

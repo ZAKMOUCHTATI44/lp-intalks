@@ -2,44 +2,53 @@
   "navbar": {
     "links": {
       "home": "Home",
-      "brands": "For Brands",
-      "influencers": "For Influencers",
-      "earlyBird": "Early Bird Offers",
+      "brands": "Social Listening Solutions",
+      "influencers": "For Brands & Agencies",
+      "earlyBird": "nsights & Reports",
       "contact": "Contact"
     },
     "cta": "Get Started Now"
   },
   "hero": {
     "join": "Join",
-    "Influencers": "Influencers",
-    "title": "Discover the First <br /> Influencer Marketplace <br /> in Morocco",
-    "subTitle": "in-Talks is the first Moroccan platform dedicated to digital influence, powered by Artificial Intelligence.",
+    "Influencers": "Brands",
+    "title": "Discover the First <br /> Social Listening Platform <br /> in Morocco",
+    "subTitle": "In-Talks is the first Moroccan platform dedicated to real-time monitoring of online conversations, powered by Artificial Intelligence.",
     "ctaBrand": "Get Started Now",
     "ctaInfluencer": "I'm an Influencer"
   },
   "faq": {
     "title": "Have Questions About in-Talks?",
-    "description": "You're in the right place. Find here all the answers to the most frequently asked questions about our platform.",
+    "description": "You’re in the right place. Here are the answers to the most frequently asked questions about our social listening platform.",
     "q1-question": "What is in-Talks?",
-    "q1-answer": "in-Talks is a Moroccan platform that connects Moroccan and international brands with local influencers. It allows companies to find, analyze, and collaborate with content creators to launch effective influence campaigns.",
-    "q2-question": "How to find an influencer on the platform?",
-    "q2-answer": "Thanks to our advanced search engine, you can filter influencers by niche, audience, engagement rate, and other criteria to find the most relevant profiles for your campaigns.",
-    "q3-question": "What types of brands can use in-Talks?",
-    "q3-answer": "All brands, whether small or large, can use in-Talks. The platform is designed to meet the needs of various sectors, from fashion and tech to beauty and more.",
-    "q4-question": "How does campaign management work on the platform?",
-    "q4-answer": "You can track and manage all your projects directly on in-Talks, from brief creation to final performance analysis. All tools are centralized for simplified management.",
-    "q5-question": "What statistics can I access?",
-    "q5-answer": "You will have access to detailed statistics on influencer engagement, reach, and impact, as well as real-time tracking of your campaign performance."
+    "q1-answer": "in-Talks is Morocco’s first AI-powered social listening platform, helping brands monitor conversations, analyze trends, and uncover actionable insights.",
+    "q2-question": "How can I track my brand mentions?",
+    "q2-answer": "Simply set up keywords, hashtags, or brand names in your dashboard and receive real-time updates on all mentions.",
+    "q3-question": "Which brands can benefit from in-Talks?",
+    "q3-answer": " Any brand, agency, or organization aiming to understand its audience, competitors, and market trends can benefit from in-Talks.",
+    "q4-question": "How does the platform help prevent crises?",
+    "q4-answer": "Our real-time alerts notify you whenever negative sentiment spikes or unusual activity is detected, helping you act before a crisis escalates.",
+    "q5-question": "What kind of statistics can I access?",
+    "q5-answer": "Get sentiment analysis, engagement trends, top influencers, trending topics, and detailed reports ready for your marketing or PR team."
   },
   "earlyBird": {
     "name": "Early Bird Offers",
-    "title": "Real Results Through a Local Approach",
-    "description": "Benefit from a platform specifically designed for the Moroccan market, offering local expertise and tailored solutions for brands and influencers.",
-    "content": "Be among the first to access exclusive tools, intelligent matchmaking, and privileged AI features.",
+    "title": "Real Insights Through a Local Approach",
+    "description": "Benefit from a platform specifically designed for the Moroccan market, offering localized monitoring, cultural insights, and tailored analytics for brands and agencies.",
+    "content": "Be among the first to access exclusive data, AI-powered analysis, and real-time alerts to understand and anticipate market trends.",
     "cta": "Join Us Today",
-    "priorityAccessToThePlatform": "Get access to a carefully curated database of Moroccan influencers.",
-    "invitationToOurExclusiveLaunchEvent": "Boost your productivity with intuitive tools.",
-    "premiumVisibilityInTheMarketplace": "Maximize the impact of every collaboration.",
+    "priorityAccessToThePlatform": {
+      "title": "Access to Morocco-focused Data",
+      "description": "Track conversations, hashtags, and sentiment specific to the Moroccan audience."
+    },
+    "invitationToOurExclusiveLaunchEvent": {
+      "title": "Boost Your Decision-Making with Smart Insights",
+      "description": "Use intuitive dashboards to detect opportunities and risks instantly."
+    },
+    "premiumVisibilityInTheMarketplace": {
+      "title": "Maximize Your Brand Impact",
+      "description": "Turn social conversations into actionable strategies for marketing, PR, and customer experience."
+    },
     "betaTestingPrivilegesAndInfluenceProductEvolution": "Beta testing privileges & influence over product evolution"
   },
   "benefitsInfluenceur": {
@@ -99,31 +108,31 @@
   },
   "benefitsBrand": {
     "title": "BRANDS AND AGENCIES:",
-    "subtitle": "Search, analyze, and collaborate instantly.",
+    "subtitle": "Monitor, analyze, and act on social conversations instantly.",
     "features": {
       "aiBriefGenerator": {
-        "title": "Advanced Influencer Search",
-        "description": "Find content creators by niche, audience, and engagement in just a few clicks."
+        "title": "Advanced Social Media Monitoring",
+        "description": "Track brand mentions, competitors, and industry keywords across all platforms."
       },
       "aiCampaignPlanner": {
-        "title": "Access to Detailed Statistics",
-        "description": "Analyze influencer performance with precise audience and engagement data."
+        "title": "Access to Detailed Insights",
+        "description": " Get audience sentiment, trends, and engagement analytics in real time."
       },
       "aiScriptGenerator": {
-        "title": "Full Campaign Management",
-        "description": "Track your influence projects from start to finish with an intuitive dashboard."
+        "title": "Comprehensive Campaign Tracking",
+        "description": "Measure the impact of your campaigns and monitor brand perception evolution."
       },
       "aiInfluencerMatching": {
-        "title": "Simplified Collaboration",
-        "description": "Establish partnerships with influencers directly via the platform."
+        "title": "Simplified Reporting",
+        "description": "Generate clear, actionable reports for your marketing and PR teams."
       },
       "smartPriceEstimator": {
-        "title": "Real-time Performance Tracking",
-        "description": "Measure your campaign impact with up-to-date data."
+        "title": "Real-time Alerts & Notifications",
+        "description": " Stay ahead of crises and opportunities with instant alerts."
       },
       "productMarketplace": {
-        "title": "Automatic Matching Tools",
-        "description": "Discover perfect influencers for your brand with need-based recommendations."
+        "title": "AI-Powered Recommendations",
+        "description": "Identify top trends and strategic actions thanks to predictive analysis."
       }
     },
     "cta": "Get Started Now"
@@ -134,7 +143,7 @@
     "cta": "Join Us Today"
   },
   "footer": {
-    "description": "in-Talks is the first Moroccan platform dedicated to digital influence, powered by Artificial Intelligence.",
+    "description": " in-Talks is the first Moroccan platform dedicated to social listening, powered by Artificial Intelligence, helping brands track conversations, analyze trends, and make data-driven decisions.",
     "quickLink": "Quick Link",
     "newsletter": {
       "title": "Stay Informed",
