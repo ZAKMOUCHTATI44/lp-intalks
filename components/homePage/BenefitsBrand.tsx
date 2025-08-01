@@ -16,7 +16,6 @@ import {
 import "aos/dist/aos.css";
 import AOS from "aos";
 import { useTranslations } from "next-intl";
-import PopupBrandForm from "../form/PopupBrandForm";
 
 const BenefitsBrand = () => {
   const t = useTranslations("benefitsBrand");
@@ -85,12 +84,10 @@ const BenefitsBrand = () => {
             ))}
           </div>
           <div className="flex justify-center">
-            <PopupBrandForm>
               <Button className="bg-main border border-main hover:bg-transparent hover:text-main !h-auto text-white">
                 {t("cta")}
                 <MoveUpRight className="h-8 w-8 md:h-12 md:w-12 ml-2" />
               </Button>
-            </PopupBrandForm>
           </div>
         </div>
       </div>

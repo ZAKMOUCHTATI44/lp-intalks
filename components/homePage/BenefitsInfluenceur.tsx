@@ -19,7 +19,6 @@ import {
 import "aos/dist/aos.css";
 import AOS from "aos";
 import { useTranslations } from "next-intl";
-import PopupInfluencerForm from "../form/PopupInfluencerForm";
 import LazyVideoPlayer from "../ui/LazyVideoPlayer";
 
 const BenefitsInfluenceur = () => {
@@ -44,7 +43,10 @@ const BenefitsInfluenceur = () => {
   }, []);
 
   return (
-    <div className="my-12 flex-col gap-5 container mx-auto px-4" id="influencers">
+    <div
+      className="my-12 flex-col gap-5 container mx-auto px-4"
+      id="influencers"
+    >
       <div className="grid grid-cols-1 md:grid-cols-3 lg:gap-5">
         {/* TEXT FIRST ON MOBILE */}
         <div className="flex flex-col gap-5 col-span-2 justify-between order-1 md:order-2">
@@ -84,14 +86,12 @@ const BenefitsInfluenceur = () => {
             ))}
           </div>
 
-          <PopupInfluencerForm>
-            <div className="flex justify-center">
-              <Button className="bg-main border lg:h-9  h-auto !py-3.5 text-wrap border-main text-black hover:bg-transparent hover:text-main text-sm w-full">
-                {t("cta")}
-                <MoveUpRight className="h-8 w-8 md:h-12 md:w-12 ml-2" />
-              </Button>
-            </div>
-          </PopupInfluencerForm>
+          <div className="flex justify-center">
+            <Button className="bg-main border lg:h-9  h-auto !py-3.5 text-wrap border-main text-black hover:bg-transparent hover:text-main text-sm w-full">
+              {t("cta")}
+              <MoveUpRight className="h-8 w-8 md:h-12 md:w-12 ml-2" />
+            </Button>
+          </div>
         </div>
 
         {/* VIDEO SECOND ON MOBILE */}

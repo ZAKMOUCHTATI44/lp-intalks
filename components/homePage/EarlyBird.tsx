@@ -3,7 +3,6 @@ import React from "react";
 import { Rocket, PartyPopper, Briefcase } from "lucide-react";
 import { Button } from "../ui/button";
 import { useTranslations } from "next-intl";
-import PopupBrandForm from "../form/PopupBrandForm";
 
 const EarlyBird = () => {
   const t = useTranslations("earlyBird");
@@ -63,12 +62,10 @@ const EarlyBird = () => {
           ))}
         </div>
         <div className="flex justify-center mt-10">
-          <PopupBrandForm>
             <Button className="bg-main border w-full lg:w-auto  !px-12 border-main text-black hover:bg-transparent hover:text-main py-2 h-auto">
               {t("cta")}
               <RocketIcon />
             </Button>
-          </PopupBrandForm>
         </div>
       </div>
     </div>

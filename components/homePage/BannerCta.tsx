@@ -2,7 +2,6 @@ import React from "react";
 import { Button } from "../ui/button";
 import { RocketIcon } from "lucide-react";
 import { useTranslations } from "next-intl";
-import PopupBrandForm from "../form/PopupBrandForm";
 
 const BannerCta = () => {
   const t = useTranslations("bandCta");
@@ -15,12 +14,10 @@ const BannerCta = () => {
             <h2 className="text-xl md:text-3xl font-semibold">{t("title")}</h2>
             <p className="text-sm md:text-xl">{t("description")}</p>
             <div className="flex">
-              <PopupBrandForm>
                 <Button className="bg-transparent border border-white  text-white font-bold text-base md:text-lg px-8 md:px-12 hover:text-main hover:border-main">
                   {t("cta")}
                   <RocketIcon className="ml-2 w-4 h-4 md:w-5 md:h-5" />
                 </Button>
-              </PopupBrandForm>
             </div>
           </div>
           {/* <div
