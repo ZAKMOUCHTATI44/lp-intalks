@@ -4,7 +4,7 @@
       "home": "Home",
       "brands": "For Brands",
       "influencers": "For Influencers",
-      "earlyBird": "Early Bird Perks",
+      "earlyBird": "Early Bird Offers",
       "contact": "Contact"
     },
     "cta": "Get Started Now"
@@ -12,10 +12,35 @@
   "hero": {
     "join": "Join",
     "Influencers": "Influencers",
-    "title": "Discover the First  <br /> Influencers Marketplace <br />  in Morocco",
-    "subTitle": "in-Talks is the first Moroccan platform dedicated to digital influence.",
-    "ctaBrand": "I’m a Brand or an agency",
-    "ctaInfluencer": "I’m an Influencer"
+    "title": "Discover the First <br /> Influencer Marketplace <br /> in Morocco",
+    "subTitle": "in-Talks is the first Moroccan platform dedicated to digital influence, powered by Artificial Intelligence.",
+    "ctaBrand": "Get Started Now",
+    "ctaInfluencer": "I'm an Influencer"
+  },
+  "faq": {
+    "title": "Have Questions About in-Talks?",
+    "description": "You're in the right place. Find here all the answers to the most frequently asked questions about our platform.",
+    "q1-question": "What is in-Talks?",
+    "q1-answer": "in-Talks is a Moroccan platform that connects Moroccan and international brands with local influencers. It allows companies to find, analyze, and collaborate with content creators to launch effective influence campaigns.",
+    "q2-question": "How to find an influencer on the platform?",
+    "q2-answer": "Thanks to our advanced search engine, you can filter influencers by niche, audience, engagement rate, and other criteria to find the most relevant profiles for your campaigns.",
+    "q3-question": "What types of brands can use in-Talks?",
+    "q3-answer": "All brands, whether small or large, can use in-Talks. The platform is designed to meet the needs of various sectors, from fashion and tech to beauty and more.",
+    "q4-question": "How does campaign management work on the platform?",
+    "q4-answer": "You can track and manage all your projects directly on in-Talks, from brief creation to final performance analysis. All tools are centralized for simplified management.",
+    "q5-question": "What statistics can I access?",
+    "q5-answer": "You will have access to detailed statistics on influencer engagement, reach, and impact, as well as real-time tracking of your campaign performance."
+  },
+  "earlyBird": {
+    "name": "Early Bird Offers",
+    "title": "Real Results Through a Local Approach",
+    "description": "Benefit from a platform specifically designed for the Moroccan market, offering local expertise and tailored solutions for brands and influencers.",
+    "content": "Be among the first to access exclusive tools, intelligent matchmaking, and privileged AI features.",
+    "cta": "Join Us Today",
+    "priorityAccessToThePlatform": "Get access to a carefully curated database of Moroccan influencers.",
+    "invitationToOurExclusiveLaunchEvent": "Boost your productivity with intuitive tools.",
+    "premiumVisibilityInTheMarketplace": "Maximize the impact of every collaboration.",
+    "betaTestingPrivilegesAndInfluenceProductEvolution": "Beta testing privileges & influence over product evolution"
   },
   "benefitsInfluenceur": {
     "title": "Influencers:",
@@ -23,7 +48,7 @@
     "features": {
       "aiMatching": {
         "title": "AI Matching",
-        "description": "Get matched with campaigns that truly fit your vibe."
+        "description": "Find campaigns that truly match your style."
       },
       "personalizedBriefs": {
         "title": "Personalized Briefs",
@@ -31,7 +56,7 @@
       },
       "preWrittenScripts": {
         "title": "Pre-written Scripts",
-        "description": "Adapt in one click with ready-to-go scripts."
+        "description": "Adapt instantly with ready-to-use scripts."
       },
       "topBrandAccess": {
         "title": "Top Brand Access",
@@ -51,7 +76,7 @@
       },
       "performanceKPIs": {
         "title": "Performance KPIs",
-        "description": "Track and improve your content performance."
+        "description": "Track and improve your content's performance."
       },
       "businessOpportunities": {
         "title": "Business Opportunities",
@@ -59,7 +84,7 @@
       },
       "clearAgreements": {
         "title": "Clear Agreements",
-        "description": "Protect your rights with defined rules and terms."
+        "description": "Protect your rights with clear terms and rules."
       },
       "boostedVisibility": {
         "title": "Boosted Visibility",
@@ -67,81 +92,54 @@
       },
       "earlyBirdPerks": {
         "title": "Early Bird Perks",
-        "description": "Get special benefits as a top creator."
+        "description": "Enjoy special benefits as a top creator."
       }
     },
     "cta": "Join as an Influencer – Get Early Access"
   },
   "benefitsBrand": {
-    "title": "BRAND AND AGENCIES :",
-    "subtitle": "Create powerful campaigns with AI precision and AI Matching with influencers in less than 15 minutes.",
+    "title": "BRANDS AND AGENCIES:",
+    "subtitle": "Search, analyze, and collaborate instantly.",
     "features": {
       "aiBriefGenerator": {
-        "title": "AI Brief Generator",
-        "description": "Structure your needs in seconds."
+        "title": "Advanced Influencer Search",
+        "description": "Find content creators by niche, audience, and engagement in just a few clicks."
       },
       "aiCampaignPlanner": {
-        "title": "AI Campaign Planner",
-        "description": "AI recommendation for a full campaign plan aligned with your brand and values."
+        "title": "Access to Detailed Statistics",
+        "description": "Analyze influencer performance with precise audience and engagement data."
       },
       "aiScriptGenerator": {
-        "title": "AI Script Generator",
-        "description": "Auto-generated scripts ready to send to talents."
+        "title": "Full Campaign Management",
+        "description": "Track your influence projects from start to finish with an intuitive dashboard."
       },
       "aiInfluencerMatching": {
-        "title": "AI Influencer Matching",
-        "description": "Get matched with the most relevant influencers for your brand."
+        "title": "Simplified Collaboration",
+        "description": "Establish partnerships with influencers directly via the platform."
       },
       "smartPriceEstimator": {
-        "title": "Smart Price Estimator",
-        "description": "Fair price suggestions and negotiation options powered by AI."
+        "title": "Real-time Performance Tracking",
+        "description": "Measure your campaign impact with up-to-date data."
       },
       "productMarketplace": {
-        "title": "Product Marketplace",
-        "description": "Feature the items you want influencers to promote."
-      },
-      "streamlinedWorkflow": {
-        "title": "Streamlined Workflow",
-        "description": "From briefing to performance tracking, all in one place."
-      },
-      "influencerSocialListening": {
-        "title": "Influencer Social Listening",
-        "description": "Track who’s tagging your brand in real time."
-      },
-      "performanceDashboard": {
-        "title": "Performance Dashboard",
-        "description": "Monitor campaign results live with real-time insights."
-      },
-      "fullCampaignControl": {
-        "title": "Full Campaign Control",
-        "description": "Manage your campaign in one sleek, intuitive interface."
+        "title": "Automatic Matching Tools",
+        "description": "Discover perfect influencers for your brand with need-based recommendations."
       }
     },
-    "cta": "Join as a Brand or agency– Get Early Access"
-  },
-  "earlyBird": {
-    "name": "Early Bird",
-    "title": "Why sign up early ?",
-    "description": "The first AI-Powered Collaboration Platform Brands & Influencers",
-    "content": "Be among the first to access exclusive tools, smart AI match making, and privileged AI features.",
-    "cta": "Join us today",
-    "priorityAccessToThePlatform": "Priority access to the platform",
-    "invitationToOurExclusiveLaunchEvent": "Invitation to our exclusive launch event",
-    "premiumVisibilityInTheMarketplace": "Premium visibility in the marketplace",
-    "betaTestingPrivilegesAndInfluenceProductEvolution": "Beta testing privileges & influence product evolution"
+    "cta": "Get Started Now"
   },
   "bandCta": {
-    "title": "The Biggest Moroccan Influencers are on in-Talks",
-    "description": "Thanks to a handpicked database, in-Talks connects you with credible and engaged content creators, ready to collaborate with your brand for impactful results.",
-    "cta": "Collaborate Now"
+    "title": "Enjoy 14 Days of Free Trial",
+    "description": "Start exploring SAP with no commitment thanks to our 14-day free trial offer and experience smooth project management.",
+    "cta": "Join Us Today"
   },
   "footer": {
-    "description": "InTalks  is the first AI-powered influencer marketing platform designed for the MENA region and beyond. It connects brands, agencies, and creators through smart tools that simplify collaboration, campaign management, and performance tracking.",
+    "description": "in-Talks is the first Moroccan platform dedicated to digital influence, powered by Artificial Intelligence.",
     "quickLink": "Quick Link",
     "newsletter": {
       "title": "Stay Informed",
-      "subTitle": "Inscrivez-vous à notre newsletter pour recevoir les dernières actualités, conseils et astuces sur le marketing d'influence. Soyez informé en premier !",
-      "placeholder": "Enter your email",
+      "subTitle": "Subscribe to our newsletter.",
+      "placeholder": "Enter your email address",
       "cta": "Subscribe"
     },
     "copyright": "2025 © Copyrights InTalks",
@@ -149,17 +147,17 @@
     "politique_confidentialite": "Privacy Policy"
   },
   "brandForm": {
-    "success": "Your form has been successfully submitted!",
-    "title": " Join as a Brand or agency– Be First, Be Ahead",
-    "subTitle": "Get early access to HYPEO AI and unlock powerful tools to build smarter, AI-driven influencer campaigns from day one.",
+    "title": "Join as a Brand or Agency – Be First, Be Ahead",
+    "subTitle": "Get early access to HYPEO AI and unlock powerful tools to launch smarter AI-driven influencer campaigns from day one.",
     "form": {
+      "success": "Your form was submitted successfully!",
       "firstName": {
         "label": "Full Name",
         "validation": "Please enter your full name."
       },
       "email": {
-        "label": "Work Email",
-        "validation": "Please enter a valid work email address."
+        "label": "Business Email",
+        "validation": "Please enter a valid business email address."
       },
       "phone": {
         "label": "Phone",
@@ -177,10 +175,10 @@
         "label": "Estimated Monthly Campaign Volume",
         "validation": "Please select an estimated monthly campaign volume.",
         "options": {
-          "1-2": "1 - 2 campaigns",
-          "3-5": "3 - 5 campaigns",
-          "6-10": "6 - 10 campaigns",
-          "11-20": "11 - 20 campaigns",
+          "1-2": "1 to 2 campaigns",
+          "3-5": "3 to 5 campaigns",
+          "6-10": "6 to 10 campaigns",
+          "11-20": "11 to 20 campaigns",
           "20+": "More than 20 campaigns"
         }
       },
@@ -195,7 +193,7 @@
       },
       "terms": {
         "label": "I want to join the private beta program",
-        "validation": "You must accept to join the private beta program."
+        "validation": "You must agree to join the private beta program."
       },
       "contact": {
         "label": "I agree to be contacted for user testing sessions",
@@ -205,19 +203,19 @@
     }
   },
   "influencerForm": {
-    "title": "Join as an Influencer – Let the Right Brands Find You First",
-    "subTitle": "HYPEO is the first AI-powered platform built to connect creators and brands in a smarter, faster, and more transparent way.",
-    "content":"By signing up, you’ll get access to an all-in-one platform to manage your entire influence journey.",
+    "title": "Join Us as an Influencer – Let the Right Brands Find You First",
+    "subTitle": "Be part of the first wave of creators shaping the future of AI-powered collaborations.",
+    "content": "By signing up, you’ll get access to an all-in-one platform to manage your entire influence journey.",
     "form": {
-      "success": "Your form has been successfully submitted!",
-      "fullName": {
-        "label": "Full Name",
-        "validation": "Please enter your full name."
-      },
+      "success": "Your form was submitted successfully!",
       "country": {
         "label": "Country",
         "empty": "This option is unavailable.",
         "validation": "Please select your country."
+      },
+      "fullName": {
+        "label": "Full Name",
+        "validation": "Please enter your full name."
       },
       "mediaHandle": {
         "label": "Social Media Handle",
@@ -228,8 +226,8 @@
         "validation": "Please provide a valid link to your main profile."
       },
       "email": {
-        "label": "Work Email",
-        "validation": "Please enter a valid work email address."
+        "label": "Business Email",
+        "validation": "Please enter a valid business email address."
       },
       "phone": {
         "label": "Phone",
@@ -237,7 +235,7 @@
       },
       "followerCount": {
         "label": "Approximate Follower Count",
-        "validation": "Please select your follower count range.",
+        "validation": "Please select a follower count range.",
         "options": {
           "nano": "Nano (1K - 30K followers)",
           "micro": "Micro (31K - 300K followers)",
@@ -252,7 +250,7 @@
       },
       "terms": {
         "label": "I want to join the private beta program",
-        "validation": "You must accept to join the private beta program."
+        "validation": "You must agree to join the private beta program."
       },
       "contact": {
         "label": "I agree to be contacted for exclusive collaboration opportunities",
