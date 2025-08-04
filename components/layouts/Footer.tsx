@@ -36,7 +36,6 @@ const Footer = () => {
     { label: t("navbar.links.contact"), href: "footer" },
   ];
 
-
   const [email, setEmail] = useState<string>("");
   const [success, setSuccess] = useState<string | null>();
 
@@ -62,14 +61,14 @@ const Footer = () => {
           </p>
           <div className="flex gap-3 mt-3">
             {links.map((link, index) => (
-              <a
-                href={link.href}
+              <span
+                // href={link.href}
                 // target="_blank"
                 key={index}
                 className=" border border-white/20 p-2 rounded-md transition-all duration-300 hover:bg-gray-300/20 hover:-translate-y-1 group"
               >
                 <Image src={link.icon} alt="Icon" width={24} height={24} />
-              </a>
+              </span>
             ))}
           </div>
         </div>
