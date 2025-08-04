@@ -11,18 +11,18 @@ import { Link as ScrollLink } from "react-scroll";
 
 const Footer = () => {
   const links = [
-    { icon: "/media/instagram.png", href: "https://www.instagram.com/hypeoai" },
+    { icon: "/media/instagram.png", href: "#" },
     {
       icon: "/media/facebook.png",
-      href: "https://www.facebook.com/profile.php?id=61574909289181",
+      href: "#",
     },
     {
       icon: "/media/tiktok.png",
-      href: "https://www.tiktok.com/@hypeo.ai?_t=ZM-8vMdcul5Pnj&_r=1",
+      href: "#",
     },
     {
       icon: "/media/linkedin.png",
-      href: "https://www.linkedin.com/company/hypeo-ai/",
+      href: "#",
     },
   ];
 
@@ -64,7 +64,7 @@ const Footer = () => {
             {links.map((link, index) => (
               <a
                 href={link.href}
-                target="_blank"
+                // target="_blank"
                 key={index}
                 className=" border border-white/20 p-2 rounded-md transition-all duration-300 hover:bg-gray-300/20 hover:-translate-y-1 group"
               >
